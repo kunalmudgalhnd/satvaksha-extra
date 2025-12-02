@@ -1,6 +1,6 @@
 {
   "forceClosed": false,
-  "forceOpen": true,
+  "forceOpen": false,
   "openHour": 9,
   "closeHour": 23,
   "closedMessage": "We are currently closed for the night. Please order tomorrow!",
