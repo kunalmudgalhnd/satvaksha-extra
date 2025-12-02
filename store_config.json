@@ -1,0 +1,8 @@
+{
+  "forceClosed": false,
+  "forceOpen": false,
+  "openHour": 9,
+  "closeHour": 22,
+  "closedMessage": "We are currently closed for the night. Please order tomorrow!",
+  "maintenanceMessage": "We are temporarily closed for server upgrades. Back soon!"
+}
