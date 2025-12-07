@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Daily Essentials",
+    "image": "https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Dairy & Milk",
+    "image": "https://images.pexels.com/photos/1551730/pexels-photo-1551730.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Snacks & Namkeen",
+    "image": "https://images.pexels.com/photos/4109137/pexels-photo-4109137.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Biscuits & Cookies",
+    "image": "https://images.pexels.com/photos/45202/cookies-biscuits-food-chocolate-45202.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Cold Drinks",
+    "image": "https://images.pexels.com/photos/5532772/pexels-photo-5532772.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Cooking Oil",
+    "image": "https://images.pexels.com/photos/4110258/pexels-photo-4110258.jpeg"
+  }
+]
