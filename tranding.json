@@ -1,0 +1,35 @@
+{
+  "title": "Trending now",
+  "subtitle": "Most loved in Hindaun today",
+  "accentColor": "#FF6A3D",
+  "backgroundColors": ["#FFF4E6", "#FFE0CC"],
+  "badge": "Hot 🔥",
+  "pillLabel": "Updated just now",
+  "maxItems": 8,
+  "items": [
+    {
+      "id": 1,
+      "name": "Best Sellers",
+      "image": "https://images.pexels.com/photos/4109132/pexels-photo-4109132.jpeg",
+      "tag": "Top 50",
+      "discountLabel": "UP TO 30% OFF"
+    },
+    {
+      "id": 2,
+      "name": "Today’s Hot Picks",
+      "image": "https://images.pexels.com/photos/4109993/pexels-photo-4109993.jpeg",
+      "tag": "Fast Delivery"
+    },
+    {
+      "id": 3,
+      "name": "Sweets You Love",
+      "image": "https://images.pexels.com/photos/461431/pexels-photo-461431.jpeg",
+      "discountLabel": "New"
+    },
+    {
+      "id": 4,
+      "name": "Party Snacks",
+      "image": "https://images.pexels.com/photos/4109137/pexels-photo-4109137.jpeg"
+    }
+  ]
+}
