@@ -1,37 +1,69 @@
 {
-  "title": "Trending Now",
-  "subtitle": "Most loved in Hindaun today",
-  "accentColor": "#FF6A3D",
-  "backgroundColors": ["#FFF4E6", "#FFE0CC"],
+  "enabled": true,
 
-  "badge": "Hot 🔥",
+  "title": "Tonight's Hot Picks",
+  "subtitle": "Limited-time late night offers",
+  "theme": "dark",
+  "accentColor": "#FFB74D",
+
+  "badge": "Night Sale 🌙",
   "pillLabel": "Updated just now",
 
-  "theme": "festival",
-  "festivalName": "Diwali Specials",
-  "festivalEmoji": "🪔",
+  "festivalName": "Midnight Cravings",
+  "festivalEmoji": "🦉",
 
   "newLabel": "NEW",
   "countdownLabel": "Flash sale ends in",
-  "countdownAccentColor": "#FF3B6A",
-  "countdownGradientColors": ["#FFE0E9", "#FFC2D8"],
+  "countdownAccentColor": "#FF6A88",
+  "countdownGradientColors": ["#2B1B2F", "#45254A"],
 
-  "maxItems": 7,
+  "defaultDurationMinutes": 120,
+
+  "fallbackTitle": "No trending offers right now",
+  "fallbackSubtitle": "We’ll be back with fresh midnight deals soon.",
+  "fallbackEmoji": "🛒",
+
+  "maxItems": 6,
   "items": [
     {
       "id": 1,
-      "name": "Festive Sweets Box",
-      "image": "https://images.pexels.com/photos/461431/pexels-photo-461431.jpeg",
-      "tag": "Gift Packs",
-      "discountLabel": "UP TO 40% OFF",
-      "endsAt": "2025-12-08T18:30:00.000Z",
+      "name": "Cheesy Overload Pizza",
+      "image": "https://images.pexels.com/photos/4109080/pexels-photo-4109080.jpeg",
+      "tag": "Best Seller",
+      "discountLabel": "FLAT 30% OFF",
+      "durationMinutes": 120,
       "countdownLabel": "Ends in"
     },
     {
       "id": 2,
-      "name": "Dry Fruit Celebration Pack",
-      "image": "https://images.pexels.com/photos/461428/pexels-photo-461428.jpeg",
-      "tag": "Premium"
+      "name": "Loaded Fries & Dips Combo",
+      "image": "https://images.pexels.com/photos/4109137/pexels-photo-4109137.jpeg",
+      "tag": "For Sharing"
+    },
+    {
+      "id": 3,
+      "name": "Chocolate Lava Cake",
+      "image": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg",
+      "tag": "Must Try",
+      "discountLabel": "BUY 1 GET 1"
+    },
+    {
+      "id": 4,
+      "name": "Garlic Bread Sticks",
+      "image": "https://images.pexels.com/photos/4109993/pexels-photo-4109993.jpeg",
+      "tag": "Perfect Side"
+    },
+    {
+      "id": 5,
+      "name": "Cold Coffee Frappe",
+      "image": "https://images.pexels.com/photos/434213/pexels-photo-434213.jpeg",
+      "tag": "Cafe Style"
+    },
+    {
+      "id": 6,
+      "name": "Oreo Thick Shake",
+      "image": "https://images.pexels.com/photos/3728515/pexels-photo-3728515.jpeg",
+      "tag": "Late-night Favourite"
     }
   ]
 }
