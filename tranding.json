@@ -1,70 +1,92 @@
 {
   "enabled": true,
 
-  "title": "Today’s Special Sale",
-  "subtitle": "Fresh deals just for you",
-  "theme": "light",
-  "backgroundColor": "#E3F2FD",
-  "accentColor": "#2196F3",
+  "title": "Tonight's Hot Picks",
+  "subtitle": "Limited-time late night offers",
 
-  "badge": "Super Sale 💙",
-  "pillLabel": "Live Now",
+  "theme": "dark",
+  "accentColor": "#FFB74D",
 
-  "festivalName": "Blue Day Sale",
-  "festivalEmoji": "💙",
+  "backgroundColors": ["#171B2C", "#101321"],
 
+  "badge": "Night Sale 🌙",
+  "pillLabel": "Updated just now",
+
+  "festivalName": "Midnight Cravings",
+  "festivalEmoji": "🦉",
   "newLabel": "NEW",
-  "countdownLabel": "Sale ends in",
-  "countdownAccentColor": "#1976D2",
-  "countdownGradientColors": ["#BBDEFB", "#E3F2FD"],
 
-  "defaultDurationMinutes": 0,
+  "countdownLabel": "Flash sale ends in",
+  "countdownAccentColor": "#FF6A88",
+  "countdownGradientColors": ["#2B1B2F", "#45254A"],
 
-  "fallbackTitle": "No active sales right now",
-  "fallbackSubtitle": "New offers will be available shortly.",
-  "fallbackEmoji": "🛍️",
+  "defaultDurationMinutes": 120,
+
+  "fallbackTitle": "No trending offers right now",
+  "fallbackSubtitle": "We’ll be back with fresh midnight deals soon.",
+  "fallbackEmoji": "🛒",
+  "fallbackTextColor": "#FFFFFF",
+  "fallbackSubTextColor": "rgba(255,255,255,0.75)",
+
+  "primaryTextColor": "#FFFFFF",
+  "secondaryTextColor": "rgba(255,255,255,0.75)",
+  "titleColor": "#FFE082",
+  "subtitleColor": "#CFD8DC",
+
+  "cardBackgroundColor": "rgba(15,18,30,0.96)",
+  "smallCardBackgroundColor": "rgba(255,255,255,0.04)",
+
+  "gridTextColor": "#FFFFFF",
+  "tagTextColor": "rgba(255,255,255,0.7)",
+
+  "pillBackgroundColor": "rgba(255,255,255,0.06)",
+  "badgeBackgroundColor": "rgba(255,183,77,0.18)",
+  "festivalBackgroundColor": "rgba(255,255,255,0.08)",
+
+  "newPillBackgroundColor": "#FF6A88",
+  "discountBadgeBackgroundColor": "#FFB74D",
 
   "maxItems": 6,
   "items": [
     {
       "id": 1,
-      "name": "Mega Cheese Burst Pizza",
+      "name": "Cheesy Overload Pizza",
       "image": "https://images.pexels.com/photos/4109080/pexels-photo-4109080.jpeg",
-      "tag": "Hot Deal",
-      "discountLabel": "FLAT 40% OFF",
-      "durationMinutes": 0,
-      "countdownLabel": "Live"
+      "tag": "Best Seller",
+      "discountLabel": "FLAT 30% OFF",
+      "durationMinutes": 120,
+      "countdownLabel": "Ends in"
     },
     {
       "id": 2,
-      "name": "Classic Veg Burger Combo",
-      "image": "https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg",
-      "tag": "Top Pick"
+      "name": "Loaded Fries & Dips Combo",
+      "image": "https://images.pexels.com/photos/4109137/pexels-photo-4109137.jpeg",
+      "tag": "For Sharing"
     },
     {
       "id": 3,
-      "name": "Chocolate Fudge Brownie",
+      "name": "Chocolate Lava Cake",
       "image": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg",
       "tag": "Must Try",
       "discountLabel": "BUY 1 GET 1"
     },
     {
       "id": 4,
-      "name": "Butter Garlic Toast",
+      "name": "Garlic Bread Sticks",
       "image": "https://images.pexels.com/photos/4109993/pexels-photo-4109993.jpeg",
       "tag": "Perfect Side"
     },
     {
       "id": 5,
-      "name": "Iced Caramel Latte",
+      "name": "Cold Coffee Frappe",
       "image": "https://images.pexels.com/photos/434213/pexels-photo-434213.jpeg",
-      "tag": "Cafe Special"
+      "tag": "Cafe Style"
     },
     {
       "id": 6,
-      "name": "Blueberry Thick Shake",
+      "name": "Oreo Thick Shake",
       "image": "https://images.pexels.com/photos/3728515/pexels-photo-3728515.jpeg",
-      "tag": "Customer Favourite"
+      "tag": "Late-night Favourite"
     }
   ]
 }
