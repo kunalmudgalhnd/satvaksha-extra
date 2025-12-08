@@ -1,92 +1,42 @@
 {
-  "enabled": false,
+  "enabled": true,
 
-  "title": "Limited Time Super Saver Deals",
-  "subtitle": "Hurry! Fresh picks on extra discount",
+  "title": "Today’s Festival Specials",
+  "subtitle": "Fresh limited-time offers for you",
 
   "theme": "default",
   "accentColor": "#0288D1",
-
   "backgroundColors": ["#E3F2FD", "#BBDEFB"],
 
-  "badge": "Today’s Sale 💙",
-  "pillLabel": "30 min flash window",
+  "badge": "Festival Sale ✨",
+  "pillLabel": "Auto-updating offers",
 
-  "festivalName": "Blue Hour Savings",
-  "festivalEmoji": "💫",
-  "newLabel": "LIVE",
+  "festivalName": "Utsav Dhamaka",
+  "festivalEmoji": "🎉",
 
-  "countdownLabel": "Sale ends in",
-  "countdownAccentColor": "#0288D1",
-  "countdownGradientColors": ["#E1F5FE", "#B3E5FC"],
+  "countdownLabel": "",
+  "globalEndsAt": "",
+  "defaultDurationMinutes": 0,
 
-  "defaultDurationMinutes": 30,
-
-  "fallbackTitle": "No live sale right now",
-  "fallbackSubtitle": "New Blinkit-style offers will be live soon.",
-  "fallbackEmoji": "🛒",
-  "fallbackTextColor": "#0D47A1",
-  "fallbackSubTextColor": "rgba(13,71,161,0.8)",
+  "autoRefreshSeconds": 2520,
 
   "primaryTextColor": "#0D47A1",
   "secondaryTextColor": "rgba(13,71,161,0.7)",
-  "titleColor": "#01579B",
-  "subtitleColor": "rgba(13,71,161,0.75)",
-
   "cardBackgroundColor": "rgba(255,255,255,0.96)",
-  "smallCardBackgroundColor": "rgba(255,255,255,0.9)",
-
-  "gridTextColor": "#0D47A1",
-  "tagTextColor": "rgba(13,71,161,0.7)",
-
-  "pillBackgroundColor": "rgba(2,136,209,0.06)",
-  "badgeBackgroundColor": "rgba(2,136,209,0.12)",
-  "festivalBackgroundColor": "rgba(255,255,255,0.9)",
-
-  "newPillBackgroundColor": "#0288D1",
-  "discountBadgeBackgroundColor": "#0288D1",
 
   "maxItems": 6,
   "items": [
     {
       "id": 1,
-      "name": "Fresh Veggies Combo Pack",
-      "image": "https://images.pexels.com/photos/143133/pexels-photo-143133.jpeg",
-      "tag": "Blinkit Favourite",
-      "discountLabel": "FLAT 25% OFF",
-      "durationMinutes": 30,
-      "countdownLabel": "Ends in"
+      "name": "Festival Dry Fruits Box",
+      "image": "https://images.pexels.com/photos/4109993/pexels-photo-4109993.jpeg",
+      "tag": "Gifting Favourite"
     },
     {
       "id": 2,
-      "name": "Daily Essentials Grocery Basket",
-      "image": "https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg",
-      "tag": "Family Saver"
-    },
-    {
-      "id": 3,
-      "name": "Premium Basmati Rice 5kg",
-      "image": "https://images.pexels.com/photos/4110257/pexels-photo-4110257.jpeg",
-      "tag": "Stock Up",
-      "discountLabel": "₹150 OFF"
-    },
-    {
-      "id": 4,
-      "name": "Cold Pressed Cooking Oil",
-      "image": "https://images.pexels.com/photos/1451355/pexels-photo-1451355.jpeg",
-      "tag": "Healthy Choice"
-    },
-    {
-      "id": 5,
-      "name": "Assorted Namkeen Party Pack",
-      "image": "https://images.pexels.com/photos/4109197/pexels-photo-4109197.jpeg",
-      "tag": "Snack Time"
-    },
-    {
-      "id": 6,
-      "name": "Ice Cream Family Tub 1L",
-      "image": "https://images.pexels.com/photos/1352278/pexels-photo-1352278.jpeg",
-      "tag": "Dessert Deal"
+      "name": "Sweet Box Assorted (1kg)",
+      "image": "https://images.pexels.com/photos/161440/sweets-indian-dessert-gulab-jamun-161440.jpeg",
+      "tag": "Most Loved"
     }
   ]
 }
