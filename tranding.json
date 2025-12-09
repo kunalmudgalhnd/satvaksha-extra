@@ -18,7 +18,7 @@
 
   "globalEndsAt": "2025-02-08T12:30:00+05:30",
   "defaultDurationMinutes": 0,
-  "autoRefreshSeconds": 300,
+  "autoRefreshSeconds": 6000,
 
   "primaryTextColor": "#000000",
   "secondaryTextColor": "rgba(0,0,0,0.7)",
