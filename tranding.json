@@ -18,6 +18,8 @@
   "countdownLabel": "Ends in",
   "countdownAccentColor": "#C62828",
   "countdownGradientColors": ["#FFEBEE", "#FBE9E7"],
+  "boxBgColor": "#C62828",
+  "boxTextColor": "#C62828",
 
   "globalEndsAt": "2025-12-25T23:59:00+05:30",
   "defaultDurationMinutes": 0,
