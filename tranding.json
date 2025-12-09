@@ -1,11 +1,11 @@
 {
   "enabled": true,
   "title": "Christmas Mega Sale",
-  "subtitle": "Festive deals — unwrap happiness today! 🎁",
-  "theme": "christmas",
+  "subtitle": "Unwrap the biggest festive offers of the year 🎁",
+  "theme": "christmas-dark-red",
 
-  "accentColor": "#C62828",
-  "backgroundColors": ["#FFF5F5", "#F1FAF1"],
+  "accentColor": "#8B0000",
+  "backgroundColors": ["#3B0000", "#5A0000"],
   "backgroundColor": "",
 
   "badge": "Christmas 🎄",
@@ -16,77 +16,77 @@
   "festivalEmoji": "🎅",
 
   "countdownLabel": "Ends in",
-  "countdownAccentColor": "#D32F2F",
-  "countdownGradientColors": ["#FFEBEE", "#FFEAEA"],
+  "countdownAccentColor": "#AA0000",
+  "countdownGradientColors": ["#4E0000", "#7A0000"],
 
   "globalEndsAt": "2025-12-25T23:59:00+05:30",
   "defaultDurationMinutes": 0,
   "autoRefreshSeconds": 300,
   "timeApiUrl": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
 
-  "primaryTextColor": "#1B1B1B",
-  "secondaryTextColor": "rgba(0,0,0,0.7)",
-  "titleColor": "#B71C1C",
-  "subtitleColor": "rgba(0,0,0,0.65)",
+  "primaryTextColor": "#FFFFFF",
+  "secondaryTextColor": "rgba(255,255,255,0.75)",
+  "titleColor": "#FFCDD2",
+  "subtitleColor": "rgba(255,255,255,0.65)",
 
-  "cardBackgroundColor": "rgba(255,255,255,0.98)",
-  "smallCardBackgroundColor": "rgba(255,255,255,0.96)",
+  "cardBackgroundColor": "rgba(255,255,255,0.10)",
+  "smallCardBackgroundColor": "rgba(255,255,255,0.08)",
 
-  "gridTextColor": "#000",
-  "tagTextColor": "rgba(0,0,0,0.7)",
+  "gridTextColor": "#FFFFFF",
+  "tagTextColor": "rgba(255,255,255,0.7)",
 
-  "pillBackgroundColor": "rgba(198,40,40,0.12)",
-  "badgeBackgroundColor": "rgba(40,140,60,0.14)",
-  "festivalBackgroundColor": "rgba(255,255,255,0.95)",
+  "pillBackgroundColor": "rgba(200,0,0,0.20)",
+  "badgeBackgroundColor": "rgba(255,255,255,0.12)",
+  "festivalBackgroundColor": "rgba(255,255,255,0.10)",
 
-  "newPillBackgroundColor": "#1B5E20",
-  "discountBadgeBackgroundColor": "#C62828",
+  "newPillBackgroundColor": "#B71C1C",
+  "discountBadgeBackgroundColor": "#E53935",
 
   "fallbackTitle": "Christmas offers are resting 🎄",
-  "fallbackSubtitle": "More festive deals will arrive soon!",
+  "fallbackSubtitle": "More festive surprises will arrive soon!",
   "fallbackEmoji": "🎁",
-  "fallbackTextColor": "#C62828",
-  "fallbackSubTextColor": "rgba(198,40,40,0.75)",
+  "fallbackTextColor": "#FFCDD2",
+  "fallbackSubTextColor": "rgba(255,205,210,0.8)",
 
   "maxItems": 6,
   "items": [
     {
       "id": 1,
-      "name": "Christmas Gift Hamper",
+      "name": "Christmas Luxury Gift Hamper",
       "image": "https://images.pexels.com/photos/1666065/pexels-photo-1666065.jpeg",
-      "tag": "Festive Pick",
-      "discountLabel": "FLAT 30% OFF"
+      "tag": "Premium Pick",
+      "discountLabel": "FLAT 35% OFF"
     },
     {
       "id": 2,
-      "name": "Holiday Cookies Box",
+      "name": "Dark Chocolate Cookies Box",
       "image": "https://images.pexels.com/photos/714703/pexels-photo-714703.jpeg",
-      "tag": "Fresh Baked"
+      "tag": "Festive Treat"
     },
     {
       "id": 3,
-      "name": "Premium Dry Fruits Pack",
+      "name": "Premium Dry Fruits Basket",
       "image": "https://images.pexels.com/photos/5946087/pexels-photo-5946087.jpeg",
-      "tag": "Healthy Choice",
-      "discountLabel": "₹200 OFF"
+      "tag": "Luxury Gifting",
+      "discountLabel": "₹250 OFF"
     },
     {
       "id": 4,
-      "name": "Christmas Special Cake",
+      "name": "Classic Christmas Plum Cake",
       "image": "https://images.pexels.com/photos/4110004/pexels-photo-4110004.jpeg",
       "tag": "Hot Seller"
     },
     {
       "id": 5,
-      "name": "Assorted Chocolates Pack",
+      "name": "Belgian Chocolates Assortment",
       "image": "https://images.pexels.com/photos/45202/chocolate-milk-dark-coffee-45202.jpeg",
-      "tag": "Sweet Deal"
+      "tag": "Best Offer"
     },
     {
       "id": 6,
-      "name": "Winter Essentials Combo",
+      "name": "Winter Essentials Warm Pack",
       "image": "https://images.pexels.com/photos/1667846/pexels-photo-1667846.jpeg",
-      "tag": "Warm & Cozy"
+      "tag": "Cozy Deal"
     }
   ]
 }
