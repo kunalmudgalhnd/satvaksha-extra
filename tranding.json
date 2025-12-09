@@ -1,23 +1,23 @@
 {
   "enabled": true,
-  "title": "Christmas Mega Sale",
-  "subtitle": "Unwrap the biggest festive offers of the year 🎁",
-  "theme": "christmas-dark-red",
+  "title": "Neon Christmas Sale",
+  "subtitle": "Glow-up deals — limited-time festive neon offers ✨",
+  "theme": "christmas-neon",
 
-  "accentColor": "#8B0000",
-  "backgroundColors": ["#3B0000", "#5A0000"],
+  "accentColor": "#7C4DFF",
+  "backgroundColors": ["#04060A", "#0B0F18"],
   "backgroundColor": "",
 
-  "badge": "Christmas 🎄",
+  "badge": "Neon Christmas ✨",
   "pillLabel": "LIVE NOW",
-  "newLabel": "FESTIVE",
+  "newLabel": "NEON",
 
-  "festivalName": "Christmas Celebration",
-  "festivalEmoji": "🎅",
+  "festivalName": "Neon Noel",
+  "festivalEmoji": "🎄",
 
   "countdownLabel": "Ends in",
-  "countdownAccentColor": "#AA0000",
-  "countdownGradientColors": ["#4E0000", "#7A0000"],
+  "countdownAccentColor": "#00E5FF",
+  "countdownGradientColors": ["#7C4DFF", "#00E5FF", "#FF4081"],
 
   "globalEndsAt": "2025-12-25T23:59:00+05:30",
   "defaultDurationMinutes": 0,
@@ -25,68 +25,68 @@
   "timeApiUrl": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
 
   "primaryTextColor": "#FFFFFF",
-  "secondaryTextColor": "rgba(255,255,255,0.75)",
-  "titleColor": "#FFCDD2",
-  "subtitleColor": "rgba(255,255,255,0.65)",
+  "secondaryTextColor": "rgba(255,255,255,0.85)",
+  "titleColor": "#EDE7FF",
+  "subtitleColor": "rgba(255,255,255,0.80)",
 
-  "cardBackgroundColor": "rgba(255,255,255,0.10)",
-  "smallCardBackgroundColor": "rgba(255,255,255,0.08)",
+  "cardBackgroundColor": "rgba(255,255,255,0.04)",
+  "smallCardBackgroundColor": "rgba(255,255,255,0.03)",
 
   "gridTextColor": "#FFFFFF",
-  "tagTextColor": "rgba(255,255,255,0.7)",
+  "tagTextColor": "rgba(255,255,255,0.88)",
 
-  "pillBackgroundColor": "rgba(200,0,0,0.20)",
-  "badgeBackgroundColor": "rgba(255,255,255,0.12)",
-  "festivalBackgroundColor": "rgba(255,255,255,0.10)",
+  "pillBackgroundColor": "linear-gradient(90deg, rgba(124,77,255,0.16), rgba(0,229,255,0.12))",
+  "badgeBackgroundColor": "rgba(255,64,129,0.10)",
+  "festivalBackgroundColor": "rgba(255,255,255,0.03)",
 
-  "newPillBackgroundColor": "#B71C1C",
-  "discountBadgeBackgroundColor": "#E53935",
+  "newPillBackgroundColor": "#00E5FF",
+  "discountBadgeBackgroundColor": "#FF4081",
 
-  "fallbackTitle": "Christmas offers are resting 🎄",
-  "fallbackSubtitle": "More festive surprises will arrive soon!",
+  "fallbackTitle": "No neon sale active",
+  "fallbackSubtitle": "Return soon — bright festive deals coming up!",
   "fallbackEmoji": "🎁",
-  "fallbackTextColor": "#FFCDD2",
-  "fallbackSubTextColor": "rgba(255,205,210,0.8)",
+  "fallbackTextColor": "#BBDEFB",
+  "fallbackSubTextColor": "rgba(187,222,251,0.8)",
 
   "maxItems": 6,
   "items": [
     {
       "id": 1,
-      "name": "Christmas Luxury Gift Hamper",
+      "name": "Neon Gift Hamper",
       "image": "https://images.pexels.com/photos/1666065/pexels-photo-1666065.jpeg",
-      "tag": "Premium Pick",
-      "discountLabel": "FLAT 35% OFF"
+      "tag": "Neon Pick",
+      "discountLabel": "FLAT 30% OFF"
     },
     {
       "id": 2,
-      "name": "Dark Chocolate Cookies Box",
+      "name": "Glow Cookies Box",
       "image": "https://images.pexels.com/photos/714703/pexels-photo-714703.jpeg",
       "tag": "Festive Treat"
     },
     {
       "id": 3,
-      "name": "Premium Dry Fruits Basket",
+      "name": "Premium Dry Fruits Pack",
       "image": "https://images.pexels.com/photos/5946087/pexels-photo-5946087.jpeg",
-      "tag": "Luxury Gifting",
-      "discountLabel": "₹250 OFF"
+      "tag": "Healthy Gift",
+      "discountLabel": "₹200 OFF"
     },
     {
       "id": 4,
-      "name": "Classic Christmas Plum Cake",
+      "name": "Neon Plum Cake",
       "image": "https://images.pexels.com/photos/4110004/pexels-photo-4110004.jpeg",
       "tag": "Hot Seller"
     },
     {
       "id": 5,
-      "name": "Belgian Chocolates Assortment",
+      "name": "Assorted Chocolates Pack",
       "image": "https://images.pexels.com/photos/45202/chocolate-milk-dark-coffee-45202.jpeg",
-      "tag": "Best Offer"
+      "tag": "Sweet Deal"
     },
     {
       "id": 6,
-      "name": "Winter Essentials Warm Pack",
+      "name": "Winter Warm Combo",
       "image": "https://images.pexels.com/photos/1667846/pexels-photo-1667846.jpeg",
-      "tag": "Cozy Deal"
+      "tag": "Cozy Bundle"
     }
   ]
 }
