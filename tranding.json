@@ -1,92 +1,92 @@
 {
   "enabled": true,
-  "title": "Neon Christmas Sale",
-  "subtitle": "Glow-up deals — limited-time festive neon offers ✨",
-  "theme": "christmas-neon",
+  "title": "Blossom & Cheer Sale",
+  "subtitle": "Fresh picks, gentle prices — grab them while they last 🌸",
+  "theme": "lovable-youthful",
 
-  "accentColor": "#988db5",
-  "backgroundColors": ["#04060A", "#0B0F18"],
+  "accentColor": "#FF6B9A",
+  "backgroundColors": ["#FFF8F9", "#F7FFF8"],
   "backgroundColor": "",
 
-  "badge": "Neon Christmas ✨",
-  "pillLabel": "LIVE NOW",
-  "newLabel": "NEON",
+  "badge": "Blossom 💖",
+  "pillLabel": "LIVE",
+  "newLabel": "TREND",
 
-  "festivalName": "Neon Noel",
-  "festivalEmoji": "🎄",
+  "festivalName": "Blossom Fest",
+  "festivalEmoji": "🌸",
 
   "countdownLabel": "Ends in",
-  "countdownAccentColor": "#00E5FF",
-  "countdownGradientColors": ["#7C4DFF", "#00E5FF", "#FF4081"],
+  "countdownAccentColor": "#9AD3C4",
+  "countdownGradientColors": ["#FFDDE6", "#E8F8F2"],
 
   "globalEndsAt": "2025-12-25T23:59:00+05:30",
   "defaultDurationMinutes": 0,
   "autoRefreshSeconds": 300,
   "timeApiUrl": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
 
-  "primaryTextColor": "#FFFFFF",
-  "secondaryTextColor": "rgba(255,255,255,0.85)",
-  "titleColor": "#EDE7FF",
-  "subtitleColor": "rgba(255,255,255,0.80)",
+  "primaryTextColor": "#1E1E1E",
+  "secondaryTextColor": "rgba(30,30,30,0.65)",
+  "titleColor": "#2B2B2B",
+  "subtitleColor": "rgba(30,30,30,0.6)",
 
-  "cardBackgroundColor": "rgba(255,255,255,0.04)",
-  "smallCardBackgroundColor": "rgba(255,255,255,0.03)",
+  "cardBackgroundColor": "rgba(255,255,255,0.95)",
+  "smallCardBackgroundColor": "rgba(255,255,255,0.93)",
 
-  "gridTextColor": "#FFFFFF",
-  "tagTextColor": "rgba(255,255,255,0.88)",
+  "gridTextColor": "#111111",
+  "tagTextColor": "rgba(30,30,30,0.68)",
 
-  "pillBackgroundColor": "linear-gradient(90deg, rgba(124,77,255,0.16), rgba(0,229,255,0.12))",
-  "badgeBackgroundColor": "rgba(255,64,129,0.10)",
-  "festivalBackgroundColor": "rgba(255,255,255,0.03)",
+  "pillBackgroundColor": "rgba(255,107,154,0.08)",
+  "badgeBackgroundColor": "rgba(154,211,196,0.14)",
+  "festivalBackgroundColor": "rgba(255,255,255,0.96)",
 
-  "newPillBackgroundColor": "#00E5FF",
-  "discountBadgeBackgroundColor": "#FF4081",
+  "newPillBackgroundColor": "#FFDDE6",
+  "discountBadgeBackgroundColor": "#FF6B9A",
 
-  "fallbackTitle": "No neon sale active",
-  "fallbackSubtitle": "Return soon — bright festive deals coming up!",
-  "fallbackEmoji": "🎁",
-  "fallbackTextColor": "#BBDEFB",
-  "fallbackSubTextColor": "rgba(187,222,251,0.8)",
+  "fallbackTitle": "No active blossoms yet",
+  "fallbackSubtitle": "Come back soon for more peaceful pick-me-ups 🌿",
+  "fallbackEmoji": "🌼",
+  "fallbackTextColor": "#FF6B9A",
+  "fallbackSubTextColor": "rgba(255,107,154,0.8)",
 
   "maxItems": 6,
   "items": [
     {
       "id": 1,
-      "name": "Neon Gift Hamper",
+      "name": "Floral Gift Hamper",
       "image": "https://images.pexels.com/photos/1666065/pexels-photo-1666065.jpeg",
-      "tag": "Neon Pick",
-      "discountLabel": "FLAT 30% OFF"
+      "tag": "Trending",
+      "discountLabel": "FLAT 25% OFF"
     },
     {
       "id": 2,
-      "name": "Glow Cookies Box",
+      "name": "Soft Cookies & Tea Set",
       "image": "https://images.pexels.com/photos/714703/pexels-photo-714703.jpeg",
-      "tag": "Festive Treat"
+      "tag": "Cozy Pair"
     },
     {
       "id": 3,
-      "name": "Premium Dry Fruits Pack",
+      "name": "Handpicked Dry Fruits",
       "image": "https://images.pexels.com/photos/5946087/pexels-photo-5946087.jpeg",
-      "tag": "Healthy Gift",
-      "discountLabel": "₹200 OFF"
+      "tag": "Healthy Treat",
+      "discountLabel": "₹150 OFF"
     },
     {
       "id": 4,
-      "name": "Neon Plum Cake",
+      "name": "Light Butter Cake",
       "image": "https://images.pexels.com/photos/4110004/pexels-photo-4110004.jpeg",
-      "tag": "Hot Seller"
+      "tag": "Fresh Bake"
     },
     {
       "id": 5,
-      "name": "Assorted Chocolates Pack",
+      "name": "Assorted Mini Chocolates",
       "image": "https://images.pexels.com/photos/45202/chocolate-milk-dark-coffee-45202.jpeg",
-      "tag": "Sweet Deal"
+      "tag": "Shareable"
     },
     {
       "id": 6,
-      "name": "Winter Warm Combo",
+      "name": "Warm Socks & Mug Combo",
       "image": "https://images.pexels.com/photos/1667846/pexels-photo-1667846.jpeg",
-      "tag": "Cozy Bundle"
+      "tag": "Stay Cozy"
     }
   ]
 }
