@@ -1,75 +1,87 @@
 {
   "enabled": true,
 
-  "title": "Quick Categories",
-  "subtitle": "Shop by popular categories",
+  "title": "New Flash Offers",
+  "subtitle": "Hurry! Deals active until 12:30 PM today",
 
   "theme": "default",
-  "accentColor": "#2196F3",
-  "backgroundColors": ["#E3F2FD", "#BBDEFB"],
+  "accentColor": "#F9A825",
+  "backgroundColors": ["#FFFDE7", "#FFF9C4"],
 
-  "badge": "Categories ✨",
-  "pillLabel": "Always Available",
+  "badge": "New Offer ⚡",
+  "pillLabel": "Auto-updating",
 
-  "festivalName": "Quick Shop",
-  "festivalEmoji": "🛍️",
+  "festivalName": "Quick Saver",
+  "festivalEmoji": "⏳",
 
-  "countdownLabel": "",
-  "globalEndsAt": "",
+  "countdownLabel": "Ends in",
+
+  "globalEndsAt": "2025-02-08T12:30:00+05:30",
   "defaultDurationMinutes": 0,
-
-  "autoRefreshSeconds": 0,
+  "autoRefreshSeconds": 300,
 
   "primaryTextColor": "#000000",
   "secondaryTextColor": "rgba(0,0,0,0.7)",
   "titleColor": "#000000",
   "subtitleColor": "rgba(0,0,0,0.75)",
 
-  "cardBackgroundColor": "rgba(255,255,255,0.15)",
-  "smallCardBackgroundColor": "rgba(255,255,255,0.12)",
+  "cardBackgroundColor": "rgba(255,255,255,0.98)",
+  "smallCardBackgroundColor": "rgba(255,255,255,0.94)",
 
   "gridTextColor": "#000000",
   "tagTextColor": "rgba(0,0,0,0.7)",
 
-  "pillBackgroundColor": "rgba(33,150,243,0.15)",
-  "badgeBackgroundColor": "rgba(33,150,243,0.2)",
-  "festivalBackgroundColor": "rgba(255,255,255,0.85)",
+  "pillBackgroundColor": "rgba(249,168,37,0.12)",
+  "badgeBackgroundColor": "rgba(249,168,37,0.18)",
+  "festivalBackgroundColor": "rgba(255,255,255,0.95)",
 
-  "newPillBackgroundColor": "#2196F3",
-  "discountBadgeBackgroundColor": "#2196F3",
+  "newPillBackgroundColor": "#F9A825",
+  "discountBadgeBackgroundColor": "#F9A825",
 
-  "fallbackTitle": "Categories Coming Soon",
-  "fallbackSubtitle": "We're setting up categories for you.",
-  "fallbackEmoji": "📦",
+  "fallbackTitle": "No active offer right now",
+  "fallbackSubtitle": "New offers will refresh shortly.",
+  "fallbackEmoji": "🛒",
   "fallbackTextColor": "#000000",
   "fallbackSubTextColor": "rgba(0,0,0,0.7)",
 
-  "maxItems": 4,
+  "maxItems": 6,
   "items": [
     {
       "id": 1,
-      "name": "Fresh Fruits",
+      "name": "Fresh Fruits Mini Combo",
       "image": "https://images.pexels.com/photos/143133/pexels-photo-143133.jpeg",
-      "tag": "Seasonal",
-      "discountLabel": ""
+      "tag": "Just Arrived",
+      "discountLabel": "FLAT 20% OFF"
     },
     {
       "id": 2,
-      "name": "Daily Essentials",
-      "image": "https://images.pexels.com/photos/4109993/pexels-photo-4109993.jpeg",
-      "tag": "Daily Use"
+      "name": "Instant Noodles Family Pack",
+      "image": "https://images.pexels.com/photos/357573/pexels-photo-357573.jpeg",
+      "tag": "Fast Seller"
     },
     {
       "id": 3,
-      "name": "Snacks & Beverages",
-      "image": "https://images.pexels.com/photos/890577/pexels-photo-890577.jpeg",
-      "tag": "Quick Bite"
+      "name": "Milk & Bread Daily Combo",
+      "image": "https://images.pexels.com/photos/4109993/pexels-photo-4109993.jpeg",
+      "tag": "Daily Essential"
     },
     {
       "id": 4,
-      "name": "Kitchen Staples",
-      "image": "https://images.pexels.com/photos/357573/pexels-photo-357573.jpeg",
-      "tag": "Cooking"
+      "name": "Premium Tea 500g",
+      "image": "https://images.pexels.com/photos/1417945/pexels-photo-1417945.jpeg",
+      "tag": "Hot Deal"
+    },
+    {
+      "id": 5,
+      "name": "Butter Cookies Pack",
+      "image": "https://images.pexels.com/photos/890577/pexels-photo-890577.jpeg",
+      "tag": "Snack Time"
+    },
+    {
+      "id": 6,
+      "name": "Chocolate Bar Pack of 5",
+      "image": "https://images.pexels.com/photos/63644/pexels-photo-63644.jpeg",
+      "tag": "New Stock"
     }
   ]
 }
