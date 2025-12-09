@@ -19,9 +19,9 @@
   "countdownAccentColor": "#9AD3C4",
   "countdownGradientColors": ["#FFDDE6", "#E8F8F2"],
 
-  "globalEndsAt": "2025-12-25T23:59:00+05:30",
+  "globalEndsAt": "2025-12-10T23:59:00+05:30",
   "defaultDurationMinutes": 0,
-  "autoRefreshSeconds": 300,
+  "autoRefreshSeconds": 3000,
   "timeApiUrl": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
 
   "primaryTextColor": "#1E1E1E",
