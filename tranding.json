@@ -1,11 +1,11 @@
 {
   "enabled": true,
   "title": "Christmas Mega Sale",
-  "subtitle": "Festive deals — valid until 11:59 PM IST",
+  "subtitle": "Festive deals — unwrap happiness today! 🎁",
   "theme": "christmas",
 
   "accentColor": "#C62828",
-  "backgroundColors": ["#FFEFEF", "#FFF8E1"],
+  "backgroundColors": ["#FFF5F5", "#F1FAF1"],
   "backgroundColor": "",
 
   "badge": "Christmas 🎄",
@@ -16,10 +16,8 @@
   "festivalEmoji": "🎅",
 
   "countdownLabel": "Ends in",
-  "countdownAccentColor": "#C62828",
-  "countdownGradientColors": ["#FFEBEE", "#FBE9E7"],
-  "boxBgColor": "#C62828",
-  "boxTextColor": "#C62828",
+  "countdownAccentColor": "#D32F2F",
+  "countdownGradientColors": ["#FFEBEE", "#FFEAEA"],
 
   "globalEndsAt": "2025-12-25T23:59:00+05:30",
   "defaultDurationMinutes": 0,
@@ -27,28 +25,28 @@
   "timeApiUrl": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
 
   "primaryTextColor": "#1B1B1B",
-  "secondaryTextColor": "rgba(0,0,0,0.65)",
+  "secondaryTextColor": "rgba(0,0,0,0.7)",
   "titleColor": "#B71C1C",
-  "subtitleColor": "rgba(0,0,0,0.6)",
+  "subtitleColor": "rgba(0,0,0,0.65)",
 
-  "cardBackgroundColor": "rgba(255,255,255,0.97)",
-  "smallCardBackgroundColor": "rgba(255,255,255,0.95)",
+  "cardBackgroundColor": "rgba(255,255,255,0.98)",
+  "smallCardBackgroundColor": "rgba(255,255,255,0.96)",
 
-  "gridTextColor": "#000000",
+  "gridTextColor": "#000",
   "tagTextColor": "rgba(0,0,0,0.7)",
 
-  "pillBackgroundColor": "rgba(198,40,40,0.10)",
-  "badgeBackgroundColor": "rgba(198,40,40,0.15)",
-  "festivalBackgroundColor": "rgba(255,255,255,0.94)",
+  "pillBackgroundColor": "rgba(198,40,40,0.12)",
+  "badgeBackgroundColor": "rgba(40,140,60,0.14)",
+  "festivalBackgroundColor": "rgba(255,255,255,0.95)",
 
-  "newPillBackgroundColor": "#2E7D32",
+  "newPillBackgroundColor": "#1B5E20",
   "discountBadgeBackgroundColor": "#C62828",
 
-  "fallbackTitle": "No Christmas sale active",
-  "fallbackSubtitle": "Come back soon for festive offers & surprises.",
+  "fallbackTitle": "Christmas offers are resting 🎄",
+  "fallbackSubtitle": "More festive deals will arrive soon!",
   "fallbackEmoji": "🎁",
-  "fallbackTextColor": "#B71C1C",
-  "fallbackSubTextColor": "rgba(183,28,28,0.8)",
+  "fallbackTextColor": "#C62828",
+  "fallbackSubTextColor": "rgba(198,40,40,0.75)",
 
   "maxItems": 6,
   "items": [
@@ -56,39 +54,39 @@
       "id": 1,
       "name": "Christmas Gift Hamper",
       "image": "https://images.pexels.com/photos/1666065/pexels-photo-1666065.jpeg",
-      "tag": "Best Seller",
+      "tag": "Festive Pick",
       "discountLabel": "FLAT 30% OFF"
     },
     {
       "id": 2,
       "name": "Holiday Cookies Box",
       "image": "https://images.pexels.com/photos/714703/pexels-photo-714703.jpeg",
-      "tag": "Festive Treats"
+      "tag": "Fresh Baked"
     },
     {
       "id": 3,
       "name": "Premium Dry Fruits Pack",
       "image": "https://images.pexels.com/photos/5946087/pexels-photo-5946087.jpeg",
-      "tag": "Healthy Gifting",
+      "tag": "Healthy Choice",
       "discountLabel": "₹200 OFF"
     },
     {
       "id": 4,
       "name": "Christmas Special Cake",
       "image": "https://images.pexels.com/photos/4110004/pexels-photo-4110004.jpeg",
-      "tag": "Fresh Arrival"
+      "tag": "Hot Seller"
     },
     {
       "id": 5,
       "name": "Assorted Chocolates Pack",
       "image": "https://images.pexels.com/photos/45202/chocolate-milk-dark-coffee-45202.jpeg",
-      "tag": "Sweet Deals"
+      "tag": "Sweet Deal"
     },
     {
       "id": 6,
       "name": "Winter Essentials Combo",
       "image": "https://images.pexels.com/photos/1667846/pexels-photo-1667846.jpeg",
-      "tag": "Warm Up"
+      "tag": "Warm & Cozy"
     }
   ]
 }
