@@ -1,92 +1,92 @@
 {
   "enabled": true,
-  "title": "Mega Blue Sale",
-  "subtitle": "Flash savings — valid until 2:00 PM IST",
-  "theme": "default",
+  "title": "Christmas Mega Sale",
+  "subtitle": "Festive deals — valid until 11:59 PM IST",
+  "theme": "christmas",
 
-  "accentColor": "#0288D1",
-  "backgroundColors": ["#E3F2FD", "#BBDEFB"],
+  "accentColor": "#C62828",
+  "backgroundColors": ["#FFEFEF", "#FFF8E1"],
   "backgroundColor": "",
 
-  "badge": "Mega Sale 💙",
+  "badge": "Christmas 🎄",
   "pillLabel": "LIVE NOW",
-  "newLabel": "LIVE",
+  "newLabel": "FESTIVE",
 
-  "festivalName": "Mega Savings",
-  "festivalEmoji": "💫",
+  "festivalName": "Christmas Celebration",
+  "festivalEmoji": "🎅",
 
   "countdownLabel": "Ends in",
-  "countdownAccentColor": "#0288D1",
-  "countdownGradientColors": ["#E1F5FE", "#B3E5FC"],
+  "countdownAccentColor": "#C62828",
+  "countdownGradientColors": ["#FFEBEE", "#FBE9E7"],
 
-  "globalEndsAt": "2025-12-09T15:00:00+05:30",
+  "globalEndsAt": "2025-12-25T23:59:00+05:30",
   "defaultDurationMinutes": 0,
   "autoRefreshSeconds": 300,
   "timeApiUrl": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
 
-  "primaryTextColor": "#000000",
-  "secondaryTextColor": "rgba(0,0,0,0.7)",
-  "titleColor": "#002E5D",
-  "subtitleColor": "rgba(0,0,0,0.65)",
+  "primaryTextColor": "#1B1B1B",
+  "secondaryTextColor": "rgba(0,0,0,0.65)",
+  "titleColor": "#B71C1C",
+  "subtitleColor": "rgba(0,0,0,0.6)",
 
-  "cardBackgroundColor": "rgba(255,255,255,0.98)",
-  "smallCardBackgroundColor": "rgba(255,255,255,0.96)",
+  "cardBackgroundColor": "rgba(255,255,255,0.97)",
+  "smallCardBackgroundColor": "rgba(255,255,255,0.95)",
 
   "gridTextColor": "#000000",
-  "tagTextColor": "rgba(0,0,0,0.65)",
+  "tagTextColor": "rgba(0,0,0,0.7)",
 
-  "pillBackgroundColor": "rgba(2,136,209,0.08)",
-  "badgeBackgroundColor": "rgba(2,136,209,0.12)",
-  "festivalBackgroundColor": "rgba(255,255,255,0.95)",
+  "pillBackgroundColor": "rgba(198,40,40,0.10)",
+  "badgeBackgroundColor": "rgba(198,40,40,0.15)",
+  "festivalBackgroundColor": "rgba(255,255,255,0.94)",
 
-  "newPillBackgroundColor": "#0288D1",
-  "discountBadgeBackgroundColor": "#0288D1",
+  "newPillBackgroundColor": "#2E7D32",
+  "discountBadgeBackgroundColor": "#C62828",
 
-  "fallbackTitle": "No active mega sale",
-  "fallbackSubtitle": "Check back later for more blue deals.",
-  "fallbackEmoji": "🛒",
-  "fallbackTextColor": "#0D47A1",
-  "fallbackSubTextColor": "rgba(13,71,161,0.8)",
+  "fallbackTitle": "No Christmas sale active",
+  "fallbackSubtitle": "Come back soon for festive offers & surprises.",
+  "fallbackEmoji": "🎁",
+  "fallbackTextColor": "#B71C1C",
+  "fallbackSubTextColor": "rgba(183,28,28,0.8)",
 
   "maxItems": 6,
   "items": [
     {
       "id": 1,
-      "name": "Fresh Veg Combo Pack",
-      "image": "https://images.pexels.com/photos/143133/pexels-photo-143133.jpeg",
-      "tag": "Top Seller",
-      "discountLabel": "FLAT 25% OFF"
+      "name": "Christmas Gift Hamper",
+      "image": "https://images.pexels.com/photos/1666065/pexels-photo-1666065.jpeg",
+      "tag": "Best Seller",
+      "discountLabel": "FLAT 30% OFF"
     },
     {
       "id": 2,
-      "name": "Daily Essentials Basket",
-      "image": "https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg",
-      "tag": "Family Pack"
+      "name": "Holiday Cookies Box",
+      "image": "https://images.pexels.com/photos/714703/pexels-photo-714703.jpeg",
+      "tag": "Festive Treats"
     },
     {
       "id": 3,
-      "name": "Premium Basmati Rice 5kg",
-      "image": "https://images.pexels.com/photos/4110257/pexels-photo-4110257.jpeg",
-      "tag": "Stock Up",
-      "discountLabel": "₹150 OFF"
+      "name": "Premium Dry Fruits Pack",
+      "image": "https://images.pexels.com/photos/5946087/pexels-photo-5946087.jpeg",
+      "tag": "Healthy Gifting",
+      "discountLabel": "₹200 OFF"
     },
     {
       "id": 4,
-      "name": "Cold Pressed Cooking Oil",
-      "image": "https://images.pexels.com/photos/1451355/pexels-photo-1451355.jpeg",
-      "tag": "Healthy Choice"
+      "name": "Christmas Special Cake",
+      "image": "https://images.pexels.com/photos/4110004/pexels-photo-4110004.jpeg",
+      "tag": "Fresh Arrival"
     },
     {
       "id": 5,
-      "name": "Assorted Snacks Party Pack",
-      "image": "https://images.pexels.com/photos/4109197/pexels-photo-4109197.jpeg",
-      "tag": "Snack Time"
+      "name": "Assorted Chocolates Pack",
+      "image": "https://images.pexels.com/photos/45202/chocolate-milk-dark-coffee-45202.jpeg",
+      "tag": "Sweet Deals"
     },
     {
       "id": 6,
-      "name": "Premium Ice Cream Tub 1L",
-      "image": "https://images.pexels.com/photos/1352278/pexels-photo-1352278.jpeg",
-      "tag": "Dessert Deal"
+      "name": "Winter Essentials Combo",
+      "image": "https://images.pexels.com/photos/1667846/pexels-photo-1667846.jpeg",
+      "tag": "Warm Up"
     }
   ]
 }
