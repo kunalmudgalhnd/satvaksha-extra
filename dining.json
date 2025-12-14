@@ -1,5 +1,27 @@
 {
+  "version": 1,
   "stores": [
+    {
+      "id": "chappan-bhog",
+      "name": "Chappan Bhog",
+      "subtitle": "Traditional Sweets · Premium Mithai",
+      "tagline": "Authentic Indian mithai crafted with purity and tradition.",
+      "heroImage": "https://images.pexels.com/photos/8887054/pexels-photo-8887054.jpeg",
+      "gallery": [
+        "https://images.pexels.com/photos/8887055/pexels-photo-8887055.jpeg",
+        "https://images.pexels.com/photos/8887056/pexels-photo-8887056.jpeg"
+      ],
+      "address": "Main Bazaar, Hindaun City",
+      "openingHours": "7:30 AM – 10:30 PM",
+      "whatsappNumber": "916376749174",
+      "highlights": [
+        "56 Varieties of Mithai",
+        "Pure Desi Ghee",
+        "Festival Special Sweets"
+      ],
+      "featured": true,
+      "enabled": true
+    },
     {
       "id": "mahadev-misthan",
       "name": "Mahadev Misthan Bhandar",
@@ -18,7 +40,9 @@
         "Live Jalebi Counter",
         "Premium Sweets",
         "Family Seating"
-      ]
+      ],
+      "featured": false,
+      "enabled": true
     },
     {
       "id": "delight-cafe",
@@ -38,7 +62,9 @@
         "Cozy Corners",
         "Work & Chill",
         "Signature Coffee"
-      ]
+      ],
+      "featured": false,
+      "enabled": true
     },
     {
       "id": "sunshine-bakers",
@@ -58,28 +84,9 @@
         "Designer Cakes",
         "Fresh Pastries",
         "Custom Occasions"
-      ]
-    },
-    {
-      "id": "chappan-bhog",
-      "name": "Chappan Bhog",
-      "subtitle": "Traditional Sweets · Premium Mithai",
-      "tagline": "Authentic Indian mithai crafted with purity and tradition.",
-      "heroImage": "https://images.pexels.com/photos/8887054/pexels-photo-8887054.jpeg",
-      "gallery": [
-        "https://images.pexels.com/photos/8887055/pexels-photo-8887055.jpeg",
-        "https://images.pexels.com/photos/8887056/pexels-photo-8887056.jpeg",
-        "https://images.pexels.com/photos/8887057/pexels-photo-8887057.jpeg"
       ],
-      "address": "Main Bazaar, Hindaun City",
-      "openingHours": "7:30 AM – 10:30 PM",
-      "whatsappNumber": "916376749174",
-      "highlights": [
-        "56 Varieties of Mithai",
-        "Pure Desi Ghee",
-        "Festival Special Sweets",
-        "Traditional Recipes"
-      ]
+      "featured": false,
+      "enabled": true
     }
   ]
 }
