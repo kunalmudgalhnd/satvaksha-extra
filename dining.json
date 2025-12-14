@@ -1,0 +1,85 @@
+{
+  "stores": [
+    {
+      "id": "mahadev-misthan",
+      "name": "Mahadev Misthan Bhandar",
+      "subtitle": "Royal Sweets · Family Dining",
+      "tagline": "Traditional flavours in a royal ambience.",
+      "heroImage": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg",
+      "gallery": [
+        "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+        "https://images.pexels.com/photos/1439339/pexels-photo-1439339.jpeg",
+        "https://images.pexels.com/photos/958546/pexels-photo-958546.jpeg"
+      ],
+      "address": "Near Bus Stand, Hindaun City",
+      "openingHours": "8:00 AM – 11:00 PM",
+      "whatsappNumber": "916376749174",
+      "highlights": [
+        "Live Jalebi Counter",
+        "Premium Sweets",
+        "Family Seating"
+      ]
+    },
+    {
+      "id": "delight-cafe",
+      "name": "Delight Café",
+      "subtitle": "Coffee · Conversations",
+      "tagline": "Slow mornings, warm lights and crafted brews.",
+      "heroImage": "https://images.pexels.com/photos/4109998/pexels-photo-4109998.jpeg",
+      "gallery": [
+        "https://images.pexels.com/photos/3731474/pexels-photo-3731474.jpeg",
+        "https://images.pexels.com/photos/3731475/pexels-photo-3731475.jpeg",
+        "https://images.pexels.com/photos/134577/pexels-photo-134577.jpeg"
+      ],
+      "address": "City Center, Hindaun",
+      "openingHours": "10:00 AM – 11:30 PM",
+      "whatsappNumber": "916376749174",
+      "highlights": [
+        "Cozy Corners",
+        "Work & Chill",
+        "Signature Coffee"
+      ]
+    },
+    {
+      "id": "sunshine-bakers",
+      "name": "Sunshine Bakers",
+      "subtitle": "Bakery · Desserts",
+      "tagline": "Freshly baked, all day – every day.",
+      "heroImage": "https://images.pexels.com/photos/2903167/pexels-photo-2903167.jpeg",
+      "gallery": [
+        "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg",
+        "https://images.pexels.com/photos/6940994/pexels-photo-6940994.jpeg",
+        "https://images.pexels.com/photos/1028715/pexels-photo-1028715.jpeg"
+      ],
+      "address": "Market Road, Hindaun",
+      "openingHours": "9:00 AM – 10:00 PM",
+      "whatsappNumber": "916376749174",
+      "highlights": [
+        "Designer Cakes",
+        "Fresh Pastries",
+        "Custom Occasions"
+      ]
+    },
+    {
+      "id": "chappan-bhog",
+      "name": "Chappan Bhog",
+      "subtitle": "Traditional Sweets · Premium Mithai",
+      "tagline": "Authentic Indian mithai crafted with purity and tradition.",
+      "heroImage": "https://images.pexels.com/photos/8887054/pexels-photo-8887054.jpeg",
+      "gallery": [
+        "https://images.pexels.com/photos/8887055/pexels-photo-8887055.jpeg",
+        "https://images.pexels.com/photos/8887056/pexels-photo-8887056.jpeg",
+        "https://images.pexels.com/photos/8887057/pexels-photo-8887057.jpeg"
+      ],
+      "address": "Main Bazaar, Hindaun City",
+      "openingHours": "7:30 AM – 10:30 PM",
+      "whatsappNumber": "916376749174",
+      "highlights": [
+        "56 Varieties of Mithai",
+        "Pure Desi Ghee",
+        "Festival Special Sweets",
+        "Traditional Recipes"
+      ]
+    }
+  ]
+}
