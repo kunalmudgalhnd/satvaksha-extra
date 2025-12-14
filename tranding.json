@@ -1,92 +1,92 @@
 {
   "enabled": true,
-  "title": "Blossom & Cheer Sale",
-  "subtitle": "Fresh picks, gentle prices — grab them while they last 🌸",
-  "theme": "lovable-youthful",
 
-  "accentColor": "#FF6B9A",
-  "backgroundColors": ["#FFF8F9", "#F7FFF8"],
+  "title": "We’re Live 🚀",
+  "subtitle": "Fast groceries & food, delivered fresh to your door",
+  "theme": "clean-premium-launch",
+
+  "accentColor": "#1DBF73",
+  "backgroundColors": ["#F5FFF9", "#FFFFFF"],
   "backgroundColor": "",
 
-  "badge": "Blossom 💖",
-  "pillLabel": "LIVE",
-  "newLabel": "TREND",
+  "badge": "NEW",
+  "pillLabel": "JUST LAUNCHED",
+  "newLabel": "LAUNCH",
 
-  "festivalName": "Blossom Fest",
-  "festivalEmoji": "🌸",
+  "launchName": "Satvaksha Launch",
+  "launchEmoji": "🚀",
 
-  "countdownLabel": "Ends in",
-  "countdownAccentColor": "#9AD3C4",
-  "countdownGradientColors": ["#FFDDE6", "#E8F8F2"],
+  "countdownLabel": "",
+  "countdownAccentColor": "",
+  "countdownGradientColors": [],
 
-  "globalEndsAt": "2025-12-10T23:59:00+05:30",
+  "globalEndsAt": "",
   "defaultDurationMinutes": 0,
-  "autoRefreshSeconds": 3000,
-  "timeApiUrl": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
+  "autoRefreshSeconds": 0,
+  "timeApiUrl": "",
 
-  "primaryTextColor": "#1E1E1E",
-  "secondaryTextColor": "rgba(30,30,30,0.65)",
-  "titleColor": "#2B2B2B",
-  "subtitleColor": "rgba(30,30,30,0.6)",
+  "primaryTextColor": "#1A1A1A",
+  "secondaryTextColor": "rgba(26,26,26,0.65)",
+  "titleColor": "#111111",
+  "subtitleColor": "rgba(26,26,26,0.6)",
 
-  "cardBackgroundColor": "rgba(255,255,255,0.95)",
-  "smallCardBackgroundColor": "rgba(255,255,255,0.93)",
+  "cardBackgroundColor": "rgba(255,255,255,0.98)",
+  "smallCardBackgroundColor": "rgba(255,255,255,0.95)",
 
-  "gridTextColor": "#111111",
-  "tagTextColor": "rgba(30,30,30,0.68)",
+  "gridTextColor": "#0F0F0F",
+  "tagTextColor": "rgba(26,26,26,0.7)",
 
-  "pillBackgroundColor": "rgba(255,107,154,0.08)",
-  "badgeBackgroundColor": "rgba(154,211,196,0.14)",
-  "festivalBackgroundColor": "rgba(255,255,255,0.96)",
+  "pillBackgroundColor": "rgba(29,191,115,0.12)",
+  "badgeBackgroundColor": "rgba(29,191,115,0.18)",
+  "festivalBackgroundColor": "rgba(255,255,255,1)",
 
-  "newPillBackgroundColor": "#FFDDE6",
-  "discountBadgeBackgroundColor": "#FF6B9A",
+  "newPillBackgroundColor": "#E8FFF3",
+  "discountBadgeBackgroundColor": "#1DBF73",
 
-  "fallbackTitle": "No active blossoms yet",
-  "fallbackSubtitle": "Come back soon for more peaceful pick-me-ups 🌿",
-  "fallbackEmoji": "🌼",
-  "fallbackTextColor": "#FF6B9A",
-  "fallbackSubTextColor": "rgba(255,107,154,0.8)",
+  "fallbackTitle": "Launching soon in your area",
+  "fallbackSubtitle": "We’re preparing something fast & fresh for you 👀",
+  "fallbackEmoji": "⏳",
+  "fallbackTextColor": "#1DBF73",
+  "fallbackSubTextColor": "rgba(29,191,115,0.8)",
 
   "maxItems": 6,
+
   "items": [
     {
       "id": 1,
-      "name": "Floral Gift Hamper",
-      "image": "https://images.pexels.com/photos/1666065/pexels-photo-1666065.jpeg",
-      "tag": "Trending",
-      "discountLabel": "25% OFF"
+      "name": "Fresh Fruits & Vegetables",
+      "image": "https://images.pexels.com/photos/143133/pexels-photo-143133.jpeg",
+      "tag": "Farm Fresh"
     },
     {
       "id": 2,
-      "name": "Soft Cookies & Tea Set",
-      "image": "https://images.pexels.com/photos/714703/pexels-photo-714703.jpeg",
-      "tag": "Cozy Pair"
+      "name": "Daily Essentials",
+      "image": "https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg",
+      "tag": "Everyday Needs"
     },
     {
       "id": 3,
-      "name": "Handpicked Dry Fruits",
-      "image": "https://images.pexels.com/photos/5946087/pexels-photo-5946087.jpeg",
-      "tag": "Healthy Treat",
-      "discountLabel": "₹150 OFF"
+      "name": "Snacks & Beverages",
+      "image": "https://images.pexels.com/photos/704569/pexels-photo-704569.jpeg",
+      "tag": "Quick Bites"
     },
     {
       "id": 4,
-      "name": "Light Butter Cake",
-      "image": "https://images.pexels.com/photos/4110004/pexels-photo-4110004.jpeg",
-      "tag": "Fresh Bake"
+      "name": "Bakery & Sweets",
+      "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg",
+      "tag": "Freshly Baked"
     },
     {
       "id": 5,
-      "name": "Assorted Mini Chocolates",
-      "image": "https://images.pexels.com/photos/45202/chocolate-milk-dark-coffee-45202.jpeg",
-      "tag": "Shareable"
+      "name": "Dairy & Breakfast",
+      "image": "https://images.pexels.com/photos/5946087/pexels-photo-5946087.jpeg",
+      "tag": "Morning Ready"
     },
     {
       "id": 6,
-      "name": "Warm Socks & Mug Combo",
-      "image": "https://images.pexels.com/photos/1667846/pexels-photo-1667846.jpeg",
-      "tag": "Stay Cozy"
+      "name": "Home & Personal Care",
+      "image": "https://images.pexels.com/photos/4239031/pexels-photo-4239031.jpeg",
+      "tag": "Care Essentials"
     }
   ]
 }
