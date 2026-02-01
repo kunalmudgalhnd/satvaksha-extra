@@ -5,7 +5,7 @@
   "theme": "dark-premium-valentine",
 
   "accentColor": "#FF2E63",
-  "backgroundColors": ["#140010", "#1C0A14"],
+  "backgroundColors": ["#1A0508", "#000000"],
   "backgroundColor": "",
 
   "badge": "LOVE",
@@ -24,29 +24,29 @@
   "autoRefreshSeconds": 0,
   "timeApiUrl": "",
 
-  "primaryTextColor": "#FFEAF4",
-  "secondaryTextColor": "rgba(255,234,244,0.7)",
-  "titleColor": "#FF4D8D",
-  "subtitleColor": "rgba(255,77,141,0.85)",
+  "primaryTextColor": "#FFEAEA",
+  "secondaryTextColor": "rgba(255, 234, 234, 0.7)",
+  "titleColor": "#FF4081",
+  "subtitleColor": "rgba(255, 64, 129, 0.8)",
 
-  "cardBackgroundColor": "rgba(28,10,20,0.95)",
-  "smallCardBackgroundColor": "rgba(40,12,28,0.9)",
+  "cardBackgroundColor": "rgba(45, 12, 22, 0.95)",
+  "smallCardBackgroundColor": "rgba(60, 20, 30, 0.95)",
 
-  "gridTextColor": "#FFF0F6",
-  "tagTextColor": "rgba(255,200,220,0.75)",
+  "gridTextColor": "#FFD1DC",
+  "tagTextColor": "rgba(255, 209, 220, 0.8)",
 
-  "pillBackgroundColor": "rgba(255,46,99,0.18)",
-  "badgeBackgroundColor": "rgba(255,46,99,0.25)",
-  "festivalBackgroundColor": "rgba(20,0,16,1)",
+  "pillBackgroundColor": "rgba(255, 46, 99, 0.2)",
+  "badgeBackgroundColor": "rgba(255, 46, 99, 0.3)",
+  "festivalBackgroundColor": "rgba(26, 5, 8, 1)",
 
-  "newPillBackgroundColor": "#2A0E1E",
-  "discountBadgeBackgroundColor": "#FF2E63",
+  "newPillBackgroundColor": "#4A0D1D",
+  "discountBadgeBackgroundColor": "#D50000",
 
   "fallbackTitle": "Love is on the way 💌",
   "fallbackSubtitle": "Preparing something sweet for you & your loved ones",
   "fallbackEmoji": "💞",
   "fallbackTextColor": "#FF2E63",
-  "fallbackSubTextColor": "rgba(255,46,99,0.85)",
+  "fallbackSubTextColor": "rgba(255, 46, 99, 0.8)",
 
   "maxItems": 6,
 
