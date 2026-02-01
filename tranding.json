@@ -1,20 +1,19 @@
 {
   "enabled": true,
+  "title": "Love Delivered 💕",
+  "subtitle": "Sweet treats & fresh groceries for your special ones",
+  "theme": "clean-premium-valentine",
 
-  "title": "We’re Live Now 🚀",
-  "subtitle": "Fast groceries & food, delivered fresh to your door",
-  "theme": "clean-premium-launch",
-
-  "accentColor": "#1DBF73",
-  "backgroundColors": ["#F5FFF9", "#FFFFFF"],
+  "accentColor": "#E91E63",
+  "backgroundColors": ["#FFF0F6", "#FFFFFF"],
   "backgroundColor": "",
 
-  "badge": "NEW",
-  "pillLabel": "JUST LAUNCHED",
-  "newLabel": "LAUNCH",
+  "badge": "LOVE",
+  "pillLabel": "VALENTINE SPECIAL",
+  "newLabel": "ROMANCE",
 
-  "launchName": "Satvaksha Launch",
-  "launchEmoji": "🚀",
+  "launchName": "Valentine Specials",
+  "launchEmoji": "💝",
 
   "countdownLabel": "",
   "countdownAccentColor": "",
@@ -25,68 +24,68 @@
   "autoRefreshSeconds": 0,
   "timeApiUrl": "",
 
-  "primaryTextColor": "#1A1A1A",
-  "secondaryTextColor": "rgba(26,26,26,0.65)",
-  "titleColor": "#111111",
-  "subtitleColor": "rgba(26,26,26,0.6)",
+  "primaryTextColor": "#2A0E18",
+  "secondaryTextColor": "rgba(42,14,24,0.65)",
+  "titleColor": "#C2185B",
+  "subtitleColor": "rgba(194,24,91,0.7)",
 
   "cardBackgroundColor": "rgba(255,255,255,0.98)",
-  "smallCardBackgroundColor": "rgba(255,255,255,0.95)",
+  "smallCardBackgroundColor": "rgba(255,240,246,0.95)",
 
-  "gridTextColor": "#0F0F0F",
-  "tagTextColor": "rgba(26,26,26,0.7)",
+  "gridTextColor": "#3A0D1F",
+  "tagTextColor": "rgba(58,13,31,0.7)",
 
-  "pillBackgroundColor": "rgba(29,191,115,0.12)",
-  "badgeBackgroundColor": "rgba(29,191,115,0.18)",
-  "festivalBackgroundColor": "rgba(255,255,255,1)",
+  "pillBackgroundColor": "rgba(233,30,99,0.12)",
+  "badgeBackgroundColor": "rgba(233,30,99,0.18)",
+  "festivalBackgroundColor": "rgba(255,240,246,1)",
 
-  "newPillBackgroundColor": "#E8FFF3",
-  "discountBadgeBackgroundColor": "#1DBF73",
+  "newPillBackgroundColor": "#FFE4EC",
+  "discountBadgeBackgroundColor": "#E91E63",
 
-  "fallbackTitle": "Launching soon in your area",
-  "fallbackSubtitle": "We’re preparing something fast & fresh for you 👀",
-  "fallbackEmoji": "⏳",
-  "fallbackTextColor": "#1DBF73",
-  "fallbackSubTextColor": "rgba(29,191,115,0.8)",
+  "fallbackTitle": "Love is on the way 💌",
+  "fallbackSubtitle": "Preparing something sweet for you & your loved ones",
+  "fallbackEmoji": "💞",
+  "fallbackTextColor": "#E91E63",
+  "fallbackSubTextColor": "rgba(233,30,99,0.8)",
 
   "maxItems": 6,
 
   "items": [
     {
       "id": 1,
-      "name": "Fresh Fruits & Vegetables",
+      "name": "Fresh Fruits & Berries",
       "image": "https://images.pexels.com/photos/143133/pexels-photo-143133.jpeg",
-      "tag": "Farm Fresh"
+      "tag": "Sweet & Fresh"
     },
     {
       "id": 2,
-      "name": "Daily Essentials",
+      "name": "Chocolate & Gifts",
       "image": "https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg",
-      "tag": "Everyday Needs"
+      "tag": "Made with Love"
     },
     {
       "id": 3,
       "name": "Snacks & Beverages",
       "image": "https://images.pexels.com/photos/704569/pexels-photo-704569.jpeg",
-      "tag": "Quick Bites"
+      "tag": "Date Ready"
     },
     {
       "id": 4,
-      "name": "Bakery & Sweets",
+      "name": "Bakery & Desserts",
       "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg",
-      "tag": "Freshly Baked"
+      "tag": "Sweet Treats"
     },
     {
       "id": 5,
       "name": "Dairy & Breakfast",
       "image": "https://images.pexels.com/photos/5946087/pexels-photo-5946087.jpeg",
-      "tag": "Morning Ready"
+      "tag": "Cozy Mornings"
     },
     {
       "id": 6,
-      "name": "Home & Personal Care",
+      "name": "Beauty & Care",
       "image": "https://images.pexels.com/photos/4239031/pexels-photo-4239031.jpeg",
-      "tag": "Care Essentials"
+      "tag": "Self Love"
     }
   ]
 }
