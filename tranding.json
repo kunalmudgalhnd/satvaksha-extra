@@ -1,19 +1,19 @@
 {
   "enabled": true,
-  "title": "Love Delivered 💕",
-  "subtitle": "Sweet treats & fresh groceries for your special ones",
-  "theme": "dark-premium-valentine",
+  "title": "Janmashtami Delights 🪈",
+  "subtitle": "Sweets, dairy & pooja essentials for Lord Krishna's birthday",
+  "theme": "dark-premium-janmashtami",
 
-  "accentColor": "#FF2E63",
-  "backgroundColors": ["#1A0508", "#000000"],
+  "accentColor": "#FFB300",
+  "backgroundColors": ["#0A0A2E", "#050510"],
   "backgroundColor": "",
 
-  "badge": "LOVE",
-  "pillLabel": "VALENTINE SPECIAL",
-  "newLabel": "ROMANCE",
+  "badge": "JANMA",
+  "pillLabel": "JANMASHTAMI SPECIAL",
+  "newLabel": "DIVINE",
 
-  "launchName": "Valentine Specials",
-  "launchEmoji": "💝",
+  "launchName": "Janmashtami Specials",
+  "launchEmoji": "🦚",
 
   "countdownLabel": "",
   "countdownAccentColor": "",
@@ -24,68 +24,68 @@
   "autoRefreshSeconds": 0,
   "timeApiUrl": "",
 
-  "primaryTextColor": "#FFEAEA",
-  "secondaryTextColor": "rgba(255, 234, 234, 0.7)",
-  "titleColor": "#FF4081",
-  "subtitleColor": "rgba(255, 64, 129, 0.8)",
+  "primaryTextColor": "#FFE8C0",
+  "secondaryTextColor": "rgba(255, 232, 192, 0.7)",
+  "titleColor": "#FFD54F",
+  "subtitleColor": "rgba(255, 213, 79, 0.8)",
 
-  "cardBackgroundColor": "rgba(45, 12, 22, 0.95)",
-  "smallCardBackgroundColor": "rgba(60, 20, 30, 0.95)",
+  "cardBackgroundColor": "rgba(15, 15, 60, 0.95)",
+  "smallCardBackgroundColor": "rgba(25, 25, 80, 0.95)",
 
-  "gridTextColor": "#FFD1DC",
-  "tagTextColor": "rgba(255, 209, 220, 0.8)",
+  "gridTextColor": "#FFE082",
+  "tagTextColor": "rgba(255, 224, 130, 0.8)",
 
-  "pillBackgroundColor": "rgba(255, 46, 99, 0.2)",
-  "badgeBackgroundColor": "rgba(255, 46, 99, 0.3)",
-  "festivalBackgroundColor": "rgba(26, 5, 8, 1)",
+  "pillBackgroundColor": "rgba(255, 179, 0, 0.2)",
+  "badgeBackgroundColor": "rgba(255, 179, 0, 0.3)",
+  "festivalBackgroundColor": "rgba(10, 10, 46, 1)",
 
-  "newPillBackgroundColor": "#4A0D1D",
+  "newPillBackgroundColor": "#1A1A4E",
   "discountBadgeBackgroundColor": "#D50000",
 
-  "fallbackTitle": "Love is on the way 💌",
-  "fallbackSubtitle": "Preparing something sweet for you & your loved ones",
-  "fallbackEmoji": "💞",
-  "fallbackTextColor": "#FF2E63",
-  "fallbackSubTextColor": "rgba(255, 46, 99, 0.8)",
+  "fallbackTitle": "Bal Gopal's blessings are on the way 🙏",
+  "fallbackSubtitle": "Preparing divine offerings for your celebrations",
+  "fallbackEmoji": "🪷",
+  "fallbackTextColor": "#FFB300",
+  "fallbackSubTextColor": "rgba(255, 179, 0, 0.8)",
 
   "maxItems": 6,
 
   "items": [
     {
       "id": 1,
-      "name": "Fresh Fruits & Berries",
-      "image": "https://images.pexels.com/photos/143133/pexels-photo-143133.jpeg",
-      "tag": "Sweet & Fresh"
+      "name": "Sweets & Mithai",
+      "image": "https://images.pexels.com/photos/551600/pexels-photo-551600.jpeg",
+      "tag": "Prasad Ready"
     },
     {
       "id": 2,
-      "name": "Chocolate & Gifts",
-      "image": "https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg",
-      "tag": "Made with Love"
+      "name": "Milk & Makhan",
+      "image": "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg",
+      "tag": "Krishna's Favorite"
     },
     {
       "id": 3,
-      "name": "Snacks & Beverages",
-      "image": "https://images.pexels.com/photos/704569/pexels-photo-704569.jpeg",
-      "tag": "Date Ready"
+      "name": "Flowers & Garlands",
+      "image": "https://images.pexels.com/photos/807598/pexels-photo-807598.jpeg",
+      "tag": "Fresh Blooms"
     },
     {
       "id": 4,
-      "name": "Bakery & Desserts",
-      "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg",
-      "tag": "Sweet Treats"
+      "name": "Fruits for Offering",
+      "image": "https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg",
+      "tag": "Bhog Essentials"
     },
     {
       "id": 5,
-      "name": "Dairy & Breakfast",
-      "image": "https://images.pexels.com/photos/5946087/pexels-photo-5946087.jpeg",
-      "tag": "Cozy Mornings"
+      "name": "Dahi & Curd",
+      "image": "https://images.pexels.com/photos/3773958/pexels-photo-3773958.jpeg",
+      "tag": "Dahi Handi Ready"
     },
     {
       "id": 6,
-      "name": "Beauty & Care",
-      "image": "https://images.pexels.com/photos/4239031/pexels-photo-4239031.jpeg",
-      "tag": "Self Love"
+      "name": "Diya & Pooja Items",
+      "image": "https://images.pexels.com/photos/1024993/pexels-photo-1024993.jpeg",
+      "tag": "Divine Decor"
     }
   ]
 }
