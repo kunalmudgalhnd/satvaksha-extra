@@ -4,8 +4,8 @@
   "subtitle": "Offerings, sweets & essentials for Krishna's midnight celebration",
   "theme": "default",
 
-  "accentColor": "#C8860A",
-  "backgroundColors": ["#FFFFFF", "#FFF9F0"],
+  "accentColor": "#B87A08",
+  "backgroundColors": ["#FFF5E6", "#FFEBD2"],
   "backgroundColor": "",
 
   "badge": "JANMA",
@@ -16,39 +16,39 @@
   "launchEmoji": "🦚",
 
   "countdownLabel": "Midnight celebration in",
-  "countdownAccentColor": "#C8860A",
-  "countdownGradientColors": ["#C8860A", "#E8B84B"],
+  "countdownAccentColor": "#B87A08",
+  "countdownGradientColors": ["#B87A08", "#D4A030"],
 
   "globalEndsAt": "2026-09-04T18:30:00.000Z",
   "defaultDurationMinutes": 0,
   "autoRefreshSeconds": 0,
   "timeApiUrl": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
 
-  "primaryTextColor": "#1C1C28",
-  "secondaryTextColor": "rgba(28, 28, 40, 0.55)",
-  "titleColor": "#1C1C28",
-  "subtitleColor": "rgba(28, 28, 40, 0.6)",
+  "primaryTextColor": "#2A1A0A",
+  "secondaryTextColor": "rgba(42, 26, 10, 0.6)",
+  "titleColor": "#2A1A0A",
+  "subtitleColor": "rgba(42, 26, 10, 0.65)",
 
-  "cardBackgroundColor": "rgba(255, 255, 255, 0.95)",
-  "smallCardBackgroundColor": "transparent",
+  "cardBackgroundColor": "rgba(255, 248, 238, 0.95)",
+  "smallCardBackgroundColor": "rgba(255, 240, 220, 0.45)",
 
-  "gridTextColor": "#1C1C28",
-  "tagTextColor": "rgba(28, 28, 40, 0.55)",
+  "gridTextColor": "#2A1A0A",
+  "tagTextColor": "rgba(42, 26, 10, 0.6)",
 
-  "pillBackgroundColor": "rgba(200, 134, 10, 0.07)",
-  "badgeBackgroundColor": "rgba(200, 134, 10, 0.09)",
-  "festivalBackgroundColor": "rgba(255, 255, 255, 0.92)",
+  "pillBackgroundColor": "rgba(184, 122, 8, 0.1)",
+  "badgeBackgroundColor": "rgba(184, 122, 8, 0.13)",
+  "festivalBackgroundColor": "rgba(255, 248, 238, 0.92)",
 
-  "newPillBackgroundColor": "#C8860A",
-  "discountBadgeBackgroundColor": "#C8860A",
+  "newPillBackgroundColor": "#B87A08",
+  "discountBadgeBackgroundColor": "#B87A08",
 
   "fallbackTitle": "Janmashtami celebrations have begun! 🎉",
   "fallbackSubtitle": "Explore our full range of pooja essentials & sweets",
   "fallbackEmoji": "🪷",
-  "fallbackTextColor": "#1C1C28",
-  "fallbackSubTextColor": "rgba(28, 28, 40, 0.55)",
+  "fallbackTextColor": "#2A1A0A",
+  "fallbackSubTextColor": "rgba(42, 26, 10, 0.6)",
 
-  "maxItems": 6,
+  "maxItems": 7,
 
   "items": [
     {
@@ -86,6 +86,12 @@
       "name": "Diya & Pooja Items",
       "image": "https://images.pexels.com/photos/1024993/pexels-photo-1024993.jpeg",
       "tag": "Divine Decor"
+    },
+    {
+      "id": 7,
+      "name": "Incense & Dhoop",
+      "image": "https://images.pexels.com/photos/6192555/pexels-photo-6192555.jpeg",
+      "tag": "Sacred Aroma"
     }
   ]
 }
